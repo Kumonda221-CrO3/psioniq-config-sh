@@ -1,0 +1,4 @@
+
+This is a default license information.
+You may place your own license with '--license',
+or just modify "default.txt" at your will.

@@ -1,0 +1,3 @@
+#
+
+eval "./psi-config.py $*"
